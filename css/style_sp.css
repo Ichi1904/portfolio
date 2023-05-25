@@ -382,7 +382,7 @@
     /* contact */
     #contact{
         width: 100%;
-        background-image: url("../../images/contactimage.jpg");
+        background-image: url("images/contactimage.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height: 350px;
